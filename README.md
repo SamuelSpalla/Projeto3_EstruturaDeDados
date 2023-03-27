@@ -1,8 +1,25 @@
 ![download](https://user-images.githubusercontent.com/87872775/228082987-ac241011-e117-49cc-ba8e-461c5577d0f8.png)
 
+# Sobre a Disciplina
+
+Curso: Engenharia de Software 3º Período
+Alunos: João Pedro Espindola de Mendonça, Luis Fellipe Marques da Silva, Yago Guimarães Tavares, Gabriel da Silva Neves, Samuel Spalla da Silva 
+Disciplina: Estrutura de Dados
+Professor: Marcio Garrido
+
 # Projeto 3 Estrutura De Dados
 
-Este código Python apresenta duas funções. A primeira função (p1()) consiste em criar uma lista com quatro sub-listas, cada uma contendo quatro letras. Em seguida, essa lista é descompactada em uma nova lista e ordenada em ordem crescente e decrescente, sendo os resultados impressos na tela. A segunda função (BigO()) executa a função p1() 30 vezes para valores crescentes de n (1 a 30), medindo o tempo de execução em microssegundos (μs) e plota um gráfico de dispersão com esses dados.
+![image](https://user-images.githubusercontent.com/87872775/228087356-bae8179a-938c-4f0c-ad14-25736a2e1840.png)
+
+A primeira função (p1()) consiste em criar uma lista com quatro sub-listas, cada uma contendo quatro letras. Em seguida, essa lista é descompactada em uma nova lista e ordenada em ordem crescente e decrescente, sendo os resultados impressos na tela.
+
+![image](https://user-images.githubusercontent.com/87872775/228087390-8f60b100-7d5d-4509-a604-06932ac8ca9f.png)
+
+ A segunda função (BigO()) executa a função p1() 30 vezes para valores crescentes de n (1 a 30), medindo o tempo de execução em microssegundos (μs) e plota um gráfico de dispersão com esses dados.
+
+![image](https://user-images.githubusercontent.com/87872775/228087515-2e8c2476-1938-44d0-802d-a020f1e3536d.png)
+
+O menu serve para separar a execução das funções e permitir que o usuário escolha o que executar
 
 # Pré-requisitos:
 1 - Python 3<br>
@@ -15,7 +32,7 @@ Este código Python apresenta duas funções. A primeira função (p1()) consist
 4 - Digite o número correspondente à opção desejada:<br>
 <pre>1: Executa a função p1() uma vez.<br>
 2: Executa a função p1() 30 vezes para valores crescentes de n e plota um gráfico de dispersão.<br>
-0: Sai do programa.<br></pre>
+0: Sai do programa.<br></pre>   
     
 # Análise de complexidade
 Função p1():
