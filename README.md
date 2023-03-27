@@ -23,5 +23,5 @@ Função BigO()
 A função BigO() executa a função p1() 30 vezes para valores crescentes de n, de 1 a 30. Portanto, a complexidade de tempo de BigO() é O(n), onde n é o número de vezes que a função p1() é executada. Dentro do loop for, a função p1() é executada, o que possui complexidade O(1), e o tempo de execução é medido em microssegundos. Portanto, a complexidade de tempo total de BigO() é O(n).
 
 # Autor
-Nome: Yago Guimarães, Samuel Spalla, João Espindolla, Gabriel Neves, Luis Fellipe<br>
-GitHub: https://github.com/SamuelSpalla , https://github.com/YagoTarsin
+Nome: Yago Guimarães, Samuel Spalla, João Pedro Espindolla, Gabriel Neves, Luis Fellipe<br>
+GitHub: https://github.com/SamuelSpalla , https://github.com/YagoTarsin, https://github.com/Joaoespindola1
