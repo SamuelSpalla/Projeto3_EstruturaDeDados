@@ -35,10 +35,7 @@ O menu serve para separar a execução das funções e permitir que o usuário e
 0: Sai do programa.<br></pre>   
     
 # Análise de complexidade
-Função p1():
-A complexidade de tempo da função sorted() é de O(n log n) no pior caso, em que n é o número de elementos a serem ordenados. No caso dessa função p1(), a lista final possui 16 elementos, portanto, a complexidade de tempo de sorted(final) é O(16 log 16) ≈ O(64), que é uma operação de tempo constante. Assim, a complexidade de tempo de p1() é O(1).
 
-Função BigO()
 A função BigO() executa a função p1() 30 vezes para valores crescentes de n, de 1 a 30. Portanto, a complexidade de tempo de BigO() é O(n), onde n é o número de vezes que a função p1() é executada. Dentro do loop for, a função p1() é executada, o que possui complexidade O(1), e o tempo de execução é medido em microssegundos. Portanto, a complexidade de tempo total de BigO() é O(n).
 
 # Autor
