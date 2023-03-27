@@ -7,7 +7,7 @@ Este código Python apresenta duas funções. A primeira função (p1()) consist
   2 - Biblioteca matplotlib
 
 # Como executar:
-1 - Clone o repositório ou baixe o arquivo exercicio_complexidade.py.<br></pre>
+1 - Clone o repositório ou baixe o arquivo nome_arquivo.py.<br></pre>
 2 - Abra o terminal e navegue até o diretório do arquivo.<br>
 3 - Execute o arquivo digitando python nome_arquivo.py.<br>
 4 - Digite o número correspondente à opção desejada:<br>
