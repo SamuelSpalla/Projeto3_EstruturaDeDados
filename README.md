@@ -43,4 +43,4 @@ A função BigO() executa a função p1() 30 vezes para valores crescentes de n,
 
 # Autor
 Nome: Yago Guimarães, Samuel Spalla, João Pedro Espindolla, Gabriel Neves, Luis Fellipe<br>
-GitHub: https://github.com/SamuelSpalla , https://github.com/YagoTarsin, https://github.com/Joaoespindola1
+GitHub: https://github.com/SamuelSpalla , https://github.com/YagoTarsin, https://github.com/Joaoespindola1, https://github.com/CariocaFellipe
