@@ -19,7 +19,7 @@ A primeira função (p1()) consiste em criar uma lista com quatro sub-listas, ca
 
 ![image](https://user-images.githubusercontent.com/87872775/228087515-2e8c2476-1938-44d0-802d-a020f1e3536d.png)
 
-O menu serve para separar a execução das funções e permitir que o usuário escolha o que executar
+O menu serve para separar a execução das funções e permitir que o usuário escolha o que executar.
 
 # Pré-requisitos:
 1 - Python 3<br>
