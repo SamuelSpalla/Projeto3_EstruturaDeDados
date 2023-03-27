@@ -3,8 +3,8 @@
 Este código Python apresenta duas funções. A primeira função (p1()) consiste em criar uma lista com quatro sub-listas, cada uma contendo quatro letras. Em seguida, essa lista é descompactada em uma nova lista e ordenada em ordem crescente e decrescente, sendo os resultados impressos na tela. A segunda função (BigO()) executa a função p1() 30 vezes para valores crescentes de n (1 a 30), medindo o tempo de execução em microssegundos (μs) e plota um gráfico de dispersão com esses dados.
 
 # Pré-requisitos:
-    1 - Python 3<br>
-    2 - Biblioteca matplotlib
+1 - Python 3<br>
+2 - Biblioteca matplotlib
 
 # Como executar:
 1 - Clone o repositório ou baixe o arquivo nome_arquivo.py.<br></pre>
