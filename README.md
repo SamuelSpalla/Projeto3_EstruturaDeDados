@@ -7,6 +7,10 @@ Alunos: João Pedro Espindola de Mendonça, Luis Fellipe Marques da Silva, Yago 
 Disciplina: Estrutura de Dados
 Professor: Marcio Garrido
 
+# Enunciado
+
+![image](https://user-images.githubusercontent.com/87872775/228096993-dd29ea65-9460-46dd-b9ad-00b63f574a2c.png)
+
 # Projeto 3 Estrutura De Dados
 
 ![image](https://user-images.githubusercontent.com/87872775/228087356-bae8179a-938c-4f0c-ad14-25736a2e1840.png)
